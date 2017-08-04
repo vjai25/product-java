@@ -231,7 +231,7 @@ import java.awt.Container;
 
 	        lblDVal = new JLabel("Val");
 
-	 
+//	        Yes init done git
 
 	        lblP = new JLabel("  Price : ");
 
